@@ -1,16 +1,16 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "Володя привет!!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "customer": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "organization": "",
+      "contactFace": "",
+      "phone": "",
+      "description": ""
+    }
+  ],
+  "noname": [
+    {
+      "id": 0
     }
   ]
 }
