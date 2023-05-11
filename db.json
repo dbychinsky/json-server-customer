@@ -5,7 +5,9 @@
       "organization": "",
       "contactFace": "",
       "phone": "",
-      "description": ""
+      "description": "",
+      "reminder": false,
+      "reminderDate": null
     }
   ],
   "noname": [
