@@ -2,11 +2,20 @@
   "customerList": [
     {
       "id": 0,
-      "organization": "",
-      "contactFace": "",
-      "phone": "",
-      "description": "",
+      "organization": "Akvarel",
+      "contactFace": "Ivanov",
+      "phone": "+375297070707",
+      "description": "poligraphist",
       "reminder": false,
+      "reminderDate": null
+    },
+    {
+      "id": 1,
+      "organization": "Priorbank",
+      "contactFace": "Petrov I.A.",
+      "phone": "+975298080808",
+      "description": "bankir",
+      "reminder": true,
       "reminderDate": null
     }
   ],
